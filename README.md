@@ -1,6 +1,5 @@
 # Hi, I'm Ethan 👋
 
-[![Twitter](https://img.shields.io/badge/Twitter-@ethan_cdwll-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ethan_cdwll)
 ---
 
 ## 👨‍💻 About Me
@@ -29,8 +28,6 @@
 ## 📬 Get in Touch
 
 - 📧 Email: ethan.cdwll@proxima.com  
-- 🐦 Twitter: [@ethan_cdwll](https://twitter.com/ethan_cdwll)  
-
 ---
 
 Thanks for visiting my profile! 🚀
